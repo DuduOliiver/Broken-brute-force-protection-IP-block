@@ -9,6 +9,6 @@ Descrição:
 
 COMO UTILIZAR:
 
-1º altere o caminho da wordlist padrão.
-2º na playlist 1 cole o nome do usuário(carlos) 100* para ter o mesmo tamanho da wordlist 2
-3* nos argumentos coloque as credências corretas wiener:peter
+1º - altere o caminho da wordlist padrão.
+2º - na playlist 1 cole o nome do usuário(carlos) 100* para ter o mesmo tamanho da wordlist 2
+3º - nos argumentos coloque as credências corretas wiener:peter
